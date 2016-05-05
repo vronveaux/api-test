@@ -1,0 +1,24 @@
+{
+  "name": "api-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vronveaux/api-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vronveaux/api-test/issues"
+  },
+  "homepage": "https://github.com/vronveaux/api-test#readme",
+  "engines":{
+    "node": "4.4.3",
+    "npm": "^2.0.0"
+  }
+}
